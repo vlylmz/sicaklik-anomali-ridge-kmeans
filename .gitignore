@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+venv/
+.venv/
+plots/
+*.joblib
+backtest_report*.csv
+clusters_*.csv
+cluster_profile_*.csv
+*.png
+*.csv~
